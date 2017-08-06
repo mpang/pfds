@@ -1,4 +1,4 @@
-module Chapter2.BinarySearchTrees where
+module BinarySearchTrees where
 
 import Data.Maybe
 

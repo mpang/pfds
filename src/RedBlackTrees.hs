@@ -1,4 +1,4 @@
-module Chapter3.RedBlackTrees where
+module RedBlackTrees where
 
 data Color = Red | Black
 

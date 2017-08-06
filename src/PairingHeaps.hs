@@ -1,4 +1,4 @@
-module Chapter5.PairingHeaps where
+module PairingHeaps where
 
 data PairingHeap a = Empty | Node a [PairingHeap a]
   deriving Show

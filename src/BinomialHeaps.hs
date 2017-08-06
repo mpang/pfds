@@ -1,4 +1,4 @@
-module Chapter3.BinomialHeaps where
+module BinomialHeaps where
 
 import Data.Maybe
 

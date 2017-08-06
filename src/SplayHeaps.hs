@@ -1,4 +1,4 @@
-module Chapter5.SplayHeaps where
+module SplayHeaps where
 
 import Data.Maybe
 

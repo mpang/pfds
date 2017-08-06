@@ -1,4 +1,4 @@
-module Chapter5.Deques where
+module Deques where
 
 data Deque a = Deque [a] [a] deriving Show
 
