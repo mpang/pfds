@@ -1,4 +1,4 @@
-module RedBlackTrees where
+module RedBlackTree where
 
 data Color = Red | Black
 

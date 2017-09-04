@@ -1,4 +1,4 @@
-module Lists where
+module List where
 
 -- | Exercise 2.1 - Computes all the suffixes of a list
 --

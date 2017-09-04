@@ -1,4 +1,4 @@
-module BinarySearchTrees where
+module BinarySearchTree where
 
 import Data.Maybe
 

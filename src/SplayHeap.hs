@@ -1,4 +1,4 @@
-module SplayHeaps where
+module SplayHeap where
 
 import Data.Maybe
 

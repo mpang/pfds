@@ -1,4 +1,4 @@
-module BinomialHeaps where
+module BinomialHeap where
 
 import Data.Maybe
 

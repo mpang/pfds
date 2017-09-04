@@ -1,4 +1,4 @@
-module LeftistHeaps where
+module LeftistHeap where
 
 data Heap a =
   Empty | Node Int (Heap a) a (Heap a)
