@@ -18,7 +18,7 @@ empty = Leaf
 -- >>> isEmpty Leaf
 -- True
 --
--- >> isEmpty (Node Leaf 0 Leaf)
+-- >>> isEmpty (Node Leaf 0 Leaf)
 -- False
 isEmpty :: BinarySearchTree a -> Bool
 isEmpty Leaf = True

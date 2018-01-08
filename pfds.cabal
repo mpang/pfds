@@ -11,6 +11,7 @@ library
     BinarySearchTree
     BinomialHeap
     Deque
+    DenseBinaryRandomAccessList
     LeftistHeap
     List
     PairingHeap
