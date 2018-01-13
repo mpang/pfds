@@ -16,6 +16,7 @@ library
     List
     PairingHeap
     RedBlackTree
+    SparseBinaryRandomAccessList
     SplayHeap
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
