@@ -16,6 +16,7 @@ library
     List
     PairingHeap
     RedBlackTree
+    SegmentedBinaryRandomAccessList
     SparseBinaryRandomAccessList
     SplayHeap
     ZerolessBinaryRandomAccessList
