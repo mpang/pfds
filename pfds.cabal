@@ -17,6 +17,8 @@ library
     PairingHeap
     RedBlackTree
     SegmentedBinaryRandomAccessList
+    SkewBinaryRandomAccessList
+    SkewBinomialHeap
     SparseBinaryRandomAccessList
     SplayHeap
     ZerolessBinaryRandomAccessList
